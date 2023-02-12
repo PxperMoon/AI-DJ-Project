@@ -1,0 +1,16 @@
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+body {
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#myCanvas {
+    background-color: white;
+    border-radius: 20px;
+    border: 5px solid black;
+}
